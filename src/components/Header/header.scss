@@ -1,0 +1,11 @@
+.Header-wrapper{
+    background: #174c88;
+    display: flex;   
+    padding: 15px; 
+    .Header-text{
+        text-align: left;
+        flex: 70%;
+        color: white;
+        margin: 0px;
+    }
+}
